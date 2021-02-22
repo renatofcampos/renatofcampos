@@ -6,9 +6,9 @@
 [![Youtube Badge](https://img.shields.io/badge/-YouTube-ff0000?style=flat-square&labelColor=ff0000&logo=youtube&logoColor=white&link=https://www.youtube.com/user/TreinaWeb)](https://www.youtube.com/user/TreinaWeb)
 
 ### About me
-I'm a {backend, frontend and archecture} developer and technical instructor at [TOTVS SA](https://www.totvs.com.br/).
+I'm a {ADV/PL backend, NodeJs/Angular frontend and shell/kubernetes archecture} developer and technical instructor at [TOTVS SA](https://www.totvs.com.br/)
 
 - 🔭 I’m currently working on TOTVS SA.
 - 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on cloud104 and TOTITVS
+- 👯 I’m looking to collaborate on cloud104 and TOTVS
 -->
